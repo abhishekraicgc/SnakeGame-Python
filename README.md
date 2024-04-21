@@ -1,4 +1,4 @@
 # SnakeGame-Python
 
-- **Snake game is one of the most popular arcade games of all time. In this game, the main objective of the player is to catch the maximum number of fruits without hitting the wall or itself.
-- It is my Python beginner course project which i completed from SkillUp by LearnVern.**
+- Snake game is one of the most popular arcade games of all time. In this game, the main objective of the player is to catch the maximum number of fruits without hitting the wall or itself.
+- It is my Python beginner course project which i completed from SkillUp by LearnVern.
